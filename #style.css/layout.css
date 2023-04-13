@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.parent{
+    background-color: aqua;
+    width: 100%;
+}
+.parent .right, .left{
+    width: 50%;
+    float: left;
+
+}
+.left img{
+    width: 500px;
+    height: 500px;
+}
